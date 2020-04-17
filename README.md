@@ -5,6 +5,8 @@ just put the virus in the file directory you want to infect and open terminal in
 and execute the following 
 
 on linux 
+
+
 $ python3 dangerous_virus.py
 
 Warning! Dont use it in the important directory you lose all your data .
