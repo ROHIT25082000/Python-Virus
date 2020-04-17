@@ -12,7 +12,7 @@ for windows open powershell
 
 >python dangerous_virus.py
 
-Warning! Dont use it in any important directory you lose all your data .
+Warning! Dont use it in any important directory otherwise you'll lose all your data .
 
 This will corrupt all files in that directory  .
 
