@@ -6,7 +6,7 @@ and execute the following
 
 on linux 
 
-$ python3 dangerous_virus.py
+python3 dangerous_virus.py
 
 for windows open powershell 
 
