@@ -6,9 +6,13 @@ and execute the following
 
 on linux 
 
-
 $ python3 dangerous_virus.py
 
-Warning! Dont use it in the important directory you lose all your data .
+for windows open powershell 
+
+>python dangerous_virus.py
+
+Warning! Dont use it in any important directory you lose all your data .
 
 This will corrupt all files in that directory  .
+
